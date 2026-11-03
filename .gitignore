@@ -1,0 +1,17 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+
+# Private planning and generated tracker data
+plans/
+outputs/kaust-dec12-sheet/
+outputs/KAUST_Dec12_Stage1_Stage2_Master_Plan.md
+*.inspect.ndjson
+
+# Keep downloaded course material outside the public repository
+private/
+course-materials/
+*.zip
+

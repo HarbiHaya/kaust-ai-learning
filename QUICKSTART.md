@@ -6,7 +6,9 @@ After GitHub Pages is enabled, open:
 
 `https://harbihaya.github.io/kaust-ai-learning/`
 
-The Day 1 exam saves answers in the current browser. Returning with the same browser restores the attempt.
+The Day 1 exam saves answers, saved questions, and per-question notes in the current browser. Returning with the same browser restores the attempt.
+
+Use **Save question** on anything worth revisiting. Write directly in **My note** without leaving the question. **Study reference** gathers saved questions, noted questions, and mistakes after submission. **Copy reference** produces Markdown that you can paste into the repository notes for a portable backup.
 
 ## Capture a thought immediately
 

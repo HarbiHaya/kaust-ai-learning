@@ -4,7 +4,7 @@ A personal learning repository for KAUST Academy AI preparation. It collects ori
 
 ## Current tools
 
-- **Stage 2 Day 1 interactive exam:** 80 difficult questions with five choices, automatic scoring, section-level results, mistake review, and browser-persistent progress.
+- **Stage 2 Day 1 interactive exam:** 80 difficult questions with five choices, automatic scoring, saved questions, per-question notes, a study-reference view, and browser-persistent progress.
 - **Pandas learning-by-doing notebooks:** practice and solution notebooks for data-analysis revision.
 - **Study planning resources:** local planning and tracking tools used during exam preparation.
 
